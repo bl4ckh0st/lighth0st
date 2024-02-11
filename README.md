@@ -1,3 +1,4 @@
 # lighth0st
 
-# # This is a example
+## This is a example
+Example of git in README.md
